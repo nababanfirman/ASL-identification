@@ -7,7 +7,7 @@ This project focuses on classifying American Sign Language (ASL) hand gestures u
 ## 📂 Dataset
 
 - **Source:** [ASL Dataset by ayuraj](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
-- **Classes:** 26 alphabets (A–Z)
+- **Classes:** 26 alphabets (A–Z) and 10 numbers (0-9)
 - **Image Format:** `.jpg`
 - **Structure:** Each letter has its own folder containing grayscale images of hands showing the respective sign.
 
