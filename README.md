@@ -42,3 +42,6 @@ The model is built using Keras Sequential API and includes:
 ### 🔧 Model Summary
 - Input: Processed image (grayscale/edge-detected)
 - Output: One-hot encoded letter class (A–Z)
+
+<img width="1251" height="848" alt="image" src="https://github.com/user-attachments/assets/ee09082f-cdc8-4293-962d-754ded5379bf" />
+Here is the combination of the average accuracy for each vehicle class on the CNN model.
